@@ -1,0 +1,2 @@
+Projekt dotyczy aplikacji wspierającej kolekcjonerów monet w katalogowaniu i zarządzaniu ich kolekcją.
+Użytkownik może dodawać opisy monet, rok wybicia, kraj pochodzenia i inne szczegóły. Aplikacja pomaga zachowanie porządku w zbiorach i ma na celu zbliżanie do siebie środowiska kolekcjonerskiego.

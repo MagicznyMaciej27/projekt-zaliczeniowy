@@ -1,0 +1,22 @@
+START
+  |
+  v
+[ Ekran główny ]
+  |
+  v
+[ Menu wyboru ]
+  |            \
+  v             v
+[ Dodaj monetę ] [ Przeglądaj kolekcję ]
+  |                |
+  v                v
+[ Formularz ]    [ Lista monet ]
+  |                |
+  v                v
+[ Zapisz ]       [ Filtruj / Szukaj ]
+  |                |
+  v                v
+[ Powrót do Menu ]--+
+  |
+  v
+ END

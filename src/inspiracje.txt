@@ -1,0 +1,17 @@
+inspiracje:
+- kolekcjonowanie monet przez autora
+- katalogowanie własnych zbiorów
+- pasja historyczna
+- e-katalogi muzealne
+
+dane wejściowe:
+- kraj pochodzenia
+- rok wybicia
+- nominał
+- stan
+- notatki
+- status (posiadana / szukana)
+
+źródła pomysłu:
+- własna potrzeba
+- inspiracja wirtualnymi zbiorami
